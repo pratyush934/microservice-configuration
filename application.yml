@@ -1,4 +1,8 @@
 # 1st
+spring:
+  application:
+    name: config-defualt
+
 eureka:
   client:
     service-url:
